@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Cyriel_Buysse
     - http://nl.wikipedia.org/wiki/Cyriel_Buysse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25554#Van-hoog-en-laagHet-eerste-levensboek
 gutenberg_issued: '2008-05-21'
 gutenberg_type: Text
 identifiers:
